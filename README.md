@@ -5,7 +5,7 @@
 ### A fast, secure, and lightweight file management utility for local networks
 
 <img src="https://img.shields.io/badge/Platform-Android-673AB7?style=for-the-badge&logo=android" />
-<img src="https://img.shields.io/badge/Version-1.0.0-9C27B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Version-1.1-9C27B0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Category-WiFi_Transfer-009688?style=for-the-badge" />
 
 <br/><br/>
@@ -14,7 +14,7 @@
 
 ## 📥 DOWNLOAD NOW
 
-<a href="https://github.com/LihkaGames/FileLink-WiFi-File-Transfer/releases/download/v1.0.0/FileLink.WiFi.File.Transfer.apk">
+<a href="https://github.com/LihkaGames/FileLink-WiFi-File-Transfer/releases/download/v.1.1/FileLink.WiFi.File.Transfer_v.1.1.apk">
   <img src="https://img.shields.io/badge/⬇_DOWNLOAD_FILELINK_APK-007FFF?style=for-the-badge&logo=android&logoColor=white&labelColor=222222" 
        alt="Download APK" 
        width="500" />
@@ -22,17 +22,17 @@
 
 <br/>
 
-<a href="https://github.com/LihkaGames/FileLink-WiFi-File-Transfer/releases/download/v1.0.0/FileLink.WiFi.File.Transfer.apk">
+<a href="https://github.com/LihkaGames/FileLink-WiFi-File-Transfer/releases/download/v.1.1/FileLink.WiFi.File.Transfer_v.1.1.apk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%9A%80+SECURE+FILE+TRANSFER+%F0%9F%9A%80;%F0%9F%93%A1+WIFI+FILE+LINK+v1.0+%F0%9F%93%A1">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=9C27B0&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%9A%80+SECURE+FILE+TRANSFER+%F0%9F%9A%80;%F0%9F%93%A1+WIFI+FILE+LINK+v1.0+%F0%9F%93%A1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%9A%80+SECURE+FILE+TRANSFER+%F0%9F%9A%80;%F0%9F%93%A1+WIFI+FILE+LINK+v1.0+%F0%9F%93%A1" alt="Download Animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%9A%80+SECURE+FILE+TRANSFER+%F0%9F%9A%80;%F0%9F%93%A1+WIFI+FILE+LINK+v1.1+%F0%9F%93%A1">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=9C27B0&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%9A%80+SECURE+FILE+TRANSFER+%F0%9F%9A%80;%F0%9F%93%A1+WIFI+FILE+LINK+v1.1+%F0%9F%93%A1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%9A%80+SECURE+FILE+TRANSFER+%F0%9F%9A%80;%F0%9F%93%A1+WIFI+FILE+LINK+v1.1+%F0%9F%93%A1" alt="Download Animation" />
   </picture>
 </a>
 
 <br/>
 
-<a href="https://github.com/LihkaGames/FileLink-WiFi-File-Transfer/releases/download/v1.0.0/FileLink.WiFi.File.Transfer.apk">
+<a href="https://github.com/LihkaGames/FileLink-WiFi-File-Transfer/releases/download/v.1.1/FileLink.WiFi.File.Transfer_v.1.1.apk">
   <img src="https://img.shields.io/badge/📱_Install_on_Android-6200EE?style=for-the-badge&logoColor=white" />
 </a>
 
